@@ -19,7 +19,7 @@ int main() {
                 printf("Você errou, digite outro número, tentativas restantes: %d", tentativas) ;
                 
             } else {
-                printf("Você perdeu!!");
+                printf("Fim de jogo!!");
             }
         }
         
