@@ -11,7 +11,7 @@ int main() {
         scanf("%d", &num);
         
         if(num == 7){
-            puts("Você ganhou");
+            puts("Você ganhou!!");
             tentativas = 0;
         } else {
             tentativas = tentativas - 1;
